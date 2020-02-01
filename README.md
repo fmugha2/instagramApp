@@ -1,2 +1,2 @@
-# instagramApp
-Work in progress Instagram clone using Xcode
+# IOS20-InstaCloneFirebase
+# IOS30-InstagramClonewithPush
